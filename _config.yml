@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Riyo # the main title
+title: Angel of Death # the main title
 
 tagline: OSCP | CTF # it will display as the subtitle
 
@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://riyox.github.io"
+url: "https://angelofdeathz.github.io"
 
 github:
-  username: Riyo # change to your GitHub username
+  username: AngelofDeathz # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
