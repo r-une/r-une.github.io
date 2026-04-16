@@ -34,5 +34,5 @@ tags:
   - impacket
 
 image:
-  path: /assets/.jpg
+  path: /assets/c.jpg
 ---
