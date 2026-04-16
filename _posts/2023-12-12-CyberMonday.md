@@ -34,5 +34,5 @@ tags:
   - impacket
 
 image:
-  path: /assets/cyberm.jpg
+  path: /assets/.jpg
 ---
