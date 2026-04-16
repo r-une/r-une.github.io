@@ -1,6 +1,6 @@
 ---
 title: HackTheBox | CyberMonday
-date: 2025-02-10
+date: 2023-12-12
 description: CyberMonday is an Insane-difficulty machine 
 published: true
 
