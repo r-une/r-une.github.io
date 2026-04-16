@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Angel of Death # the main title
+title: Rune # the main title
 
 tagline: OSCP | CTF # it will display as the subtitle
 
@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://angelofdeathz.github.io"
+url: "https://r-une.github.io"
 
 github:
-  username: AngelofDeathz # change to your GitHub username
+  username: r-une # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: riyo
+  name: rune
   email: ethicx@keemail.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://i.pinimg.com/736x/bc/0a/9a/bc0a9a9a4d542a93d7e8d3b44ad423cb.jpg
+avatar: https://cdn.discordapp.com/attachments/1490771694028324906/1492963049571614892/d819411f1602797ba2f55ffb6d3c2f93.png?ex=69e1daf0&is=69e08970&hm=192e7018bc05d228a481752b7a92cf05bf966d93e5e51252b0ce9c49fdadd87c
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
