@@ -16,7 +16,7 @@ timezone:
 
 title: Rune # the main title
 
-tagline: test1 # it will display as the subtitle
+tagline: A blog for CTF. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   test123.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Rune
   email: example@domain.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:https://cdn.discordapp.com/attachments/1490771694028324906/1492963049571614892/d819411f1602797ba2f55ffb6d3c2f93.png?ex=69e283b0&is=69e13230&hm=59131dab9a84955018adb0a673ff6c1a843256029db05c434ff12e8cefa3ae0b
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
