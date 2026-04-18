@@ -9,29 +9,30 @@ categories:
   - HTB
 
 tags:
-  - active-directory
   - web-exploitation
+  - nginx
+  - off-by-slash
+  - laravel
+  - file-disclosure
+  - git-dumping
+  - mass-assignment
+  - api-exploitation
+  - jwt
+  - jwt-forgery
+  - ssrf
+  - crlf-injection
+  - redis
+  - deserialization
+  - phpggc
   - rce
-  - cms-exploit
-  - pluck-cms
   - reverse-shell
-  - lnk-abuse
-  - lateral-movement
-  - pivoting
-  - socks-proxy
-  - proxychains
-  - webdav
-  - ntlm-relay
-  - petitpotam
-  - shadow-credentials
-  - adcs
-  - esc13
-  - certificate-abuse
-  - kerberos
-  - dcsync
-  - secretsdump
-  - windows
-  - impacket
+  - docker
+  - container-enumeration
+  - internal-network
+  - path-traversal
+  - filter-bypass
+  - privilege-escalation
+  - linux
 
 image:
   path: /assets/c.png
